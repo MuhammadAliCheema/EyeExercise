@@ -1,8 +1,8 @@
 Here's the rephrased text to avoid plagiarism:
 
 # Eye Exercise
-M.I.T xPRO Eye Exercise<br>
-Eye Exercise: 
+M.I.T xPRO Eye Exercise
+Eye Exercise: [link](https://github.com/MuhammadAliCheema/EyeExercise.git)
 
 ___
 
